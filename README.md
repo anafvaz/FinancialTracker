@@ -18,24 +18,24 @@ For the development of the web app, I intend to use HTML, Bootstrap, and CSS for
 
 ## Setup
  - Clone the Repository
- - 
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+
+    git clone https://github.com/your-username/your-repository.git
+    cd your-repository
 
 ## Install Dependencies
 - Install the required npm packages:
 
-npm install
+    npm install
 
 ## Run MongoDB
 - Make sure MongoDB is running. You can start it with:
 
-mongod
+    mongod
 
 ## Start the Application
 - Run the application with:
-- 
-npm start
+
+    npm start
 
 By default, the server will start on port 5001. You can access the application in your browser at http://localhost:5001.
 
